@@ -59,7 +59,7 @@ class MovieTableViewCell: UITableViewCell
             
         }
         
-        
+        // Added a comment
         
     }
     
